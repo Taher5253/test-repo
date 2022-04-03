@@ -135,3 +135,4 @@ def samestring(a,b):
     #return h
 
 samestring('ZZYZYYZZYYZYZZY', 'ZZYZYYZZYYZYZZY')
+samestring2('ZZYZYYZZYYZYZZY', 'ZZYZYYZZYYZYZZY')
