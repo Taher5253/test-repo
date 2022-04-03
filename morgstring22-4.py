@@ -1,5 +1,6 @@
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
+# Write Python 2 code in this online editor and run it.
 
 def samestring(a,b):
     h=''
